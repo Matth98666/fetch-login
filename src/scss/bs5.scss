@@ -1,0 +1,7 @@
+// Variable overrides first
+$orange: #e6870d;
+$primary: $orange;
+$enable-shadows: true;
+
+// Then import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
